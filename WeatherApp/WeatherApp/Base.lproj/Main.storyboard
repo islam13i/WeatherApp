@@ -61,6 +61,7 @@
                     </view>
                     <connections>
                         <outlet property="background" destination="8bC-Xf-vdC" id="IhA-tW-G7w"/>
+                        <outlet property="cityLabel" destination="1o2-4R-4CF" id="Pc7-oV-rAn"/>
                         <outlet property="tempLabel" destination="FqO-FK-sfQ" id="5HN-Fp-BEJ"/>
                         <outlet property="weatherDescLabel" destination="HGa-9Y-6np" id="Gtf-e6-nXj"/>
                         <outlet property="weatherImageView" destination="o7X-qh-Myz" id="qyQ-Jc-b2A"/>
